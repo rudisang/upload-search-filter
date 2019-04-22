@@ -11,6 +11,6 @@ The code works fine so feel free to modify it as you wish.
 6. status
 7. country
 
-#Strictly conform to that order(as in prod_id is the first row and country is the last) and naming conventions should also be the same. Don't make up your own rows unless you know what you are doing.
+#Strictly conform to that order(as in prod_id is the first row and country is the last) and naming conventions should also be the same. Don't make up your own rows unless you know what you are doing. But do tinker with it and make it your own after getting it to work.
 
 (0_0) <==Good luck!!
